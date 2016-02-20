@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestionsDelay": 0,
+    "files.exclude": {
+        ".gitignore": true,
+        "*.bat": true,
+        "**/node_modules": true,
+        "**/libs": true,
+        "**/build": true,
+        "LICENSE": true,
+        "readme.md": true
+    }
+}
